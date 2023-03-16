@@ -17,3 +17,4 @@ def git_auto_commit():
 
 if __name__ == "__main__":
   git_auto_commit()
+  input("Press any key to exit!")
